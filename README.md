@@ -4,13 +4,13 @@
 
 Backtracking is an effective algorithmic technique for solving problems by incrementally building a solution and backtracking when it hits a dead end. It systematically explores possible configurations while respecting the constraints of the problem. In the case of Sudoku, backtracking is utilized to fill in a partially completed grid with numbers from 1 to 9, ensuring that no row, column, or 3x3 subgrid contains duplicates.
 
-![Backtracking Algorithm](images/Backtracking_Sudoku.png)
+![Backtracking Algorithm](images/Backtraking.png)
 
 ## Understanding the Sudoku Problem
 
 Sudoku is a logic-based combinatorial number-placement puzzle. The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid contain all of the digits from 1 to 9.
 
-![Sudoku Puzzle](images/Sudoku_Puzzle.png)
+![Sudoku Puzzle](images/sudoku.png)
 
 ## Algorithm Steps
 
